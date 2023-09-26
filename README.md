@@ -5,11 +5,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F751AE&width=435&lines=console.log(%22Hello%2C+I'm+Serena!%22))](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, I'm Serena!</h1>
-<h3 align="center">Welcome to my GitHub profile! I am passionate about learning to code and I am steady on a path to develop my skills and I am excited about this new journey I have undertaken for myself. On this page, you will find uploaded content that showcases my development in coding! I am interested in networking with fellow developers in order to grow my skills and I would love to collaborate on a project, feel free to reach out to me. Thank you for visiting my Github, and I look forward to connecting with you! I am also learning AWS Cloud computing and currently undertaking a bootcamp! Excited to see where my developing skills take me!</h3>
+<h3 align="center">Welcome to my GitHub profile! I am passionate about learning to code and I am steady on a path to develop my skills and I am excited about this new journey I have undertaken for myself. On this page, you will find uploaded content that showcases my development in coding! I am interested in networking with fellow developers in order to grow my skills and I would love to collaborate on a project, feel free to reach out to me. Thank you for visiting my Github, and I look forward to connecting with you! </h3>
 
-- 🔭 I’m currently working on building a website showcasing the beauty and history of Caribbean Carnival , developing my Discord server and growing a community, and blogging my journey through my this_mama_codes IG.
+- 🔭 I am currently in the process of building a wellness web application project called LovePrayExhale, it is a labour of love and learning! I look forward to seeing where this journey takes me
 
-- 🌱 I’m in the process of learning AWS Cloud Computing, HTML,CSS,JavaScript, Python, Linux Bash Script..and open to more!
+- 🌱 I am a certified Cloud Practitioner, and an avid Python enthusiast, enjoying the intricacies of backend development and developing solutions to fufill realworld problems, I also have a growing enthusiasm for automation. I am developing my frontend skills in React, now that I have mastered the fundamentals of JavaScript, CSS and HTML.
 
 - 📝 Check out my coding journey on my personal IG blog >>> [https://www.instagram.com/this_mama_codes/](https://www.instagram.com/this_mama_codes/)
 
